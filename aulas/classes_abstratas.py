@@ -1,0 +1,1 @@
+#classes abstratas em Python
